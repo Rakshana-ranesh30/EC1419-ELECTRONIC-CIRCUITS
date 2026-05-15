@@ -27,6 +27,7 @@
 ## Tabulation
 
 ## Graph
+<img width="1528" height="685" alt="WhatsApp Image 2026-05-15 at 12 08 25" src="https://github.com/user-attachments/assets/4c46f893-744c-4237-9d43-5fc96cbf2b20" />
 
 
 ## **Result**
