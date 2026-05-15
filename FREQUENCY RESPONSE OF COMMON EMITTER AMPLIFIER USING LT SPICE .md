@@ -16,6 +16,8 @@
 
 <img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
 
+<img width="1528" height="685" alt="WhatsApp Image 2026-05-15 at 12 08 25" src="https://github.com/user-attachments/assets/1ce26199-2257-4d3d-b661-44bdcf598c4e" />
+
 
 ## MODEL GRAPH
 
