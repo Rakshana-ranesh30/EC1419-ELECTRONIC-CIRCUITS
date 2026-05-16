@@ -1,3 +1,5 @@
+<img width="1528" height="685" alt="WhatsApp Image 2026-05-15 at 12 08 25" src="https://github.com/user-attachments/assets/da42975b-74cd-48f1-b7d1-4a6fa57a02f4" />
+<img width="1528" height="685" alt="WhatsApp Image 2026-05-15 at 12 08 25" src="https://github.com/user-attachments/assets/9c86b9c0-b464-41f3-b85f-4ab8e34b8665" />
 ## EC1419-Electronics Circuits-Lab
 **EXP NO:1**
 # <img width="847" height="606" alt="image" src="https://github.com/user-attachments/assets/e89cd66c-73d8-4d5b-845a-89e5ed05bd69" />
@@ -27,6 +29,8 @@
 ## Tabulation
 
 ## Graph
+
+ <img width="1528" height="685" alt="WhatsApp Image 2026-05-15 at 12 08 25" src="https://github.com/user-attachments/assets/afbd44f1-e39a-40f3-926f-4087da0f3934" />
 
 
 ## **Result**
