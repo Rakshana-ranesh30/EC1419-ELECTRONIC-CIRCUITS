@@ -17,6 +17,10 @@
 
 ## Graph
 
+<img width="1600" height="379" alt="WhatsApp Image 2026-05-15 at 12 45 24" src="https://github.com/user-attachments/assets/3a902be3-1a5d-4f51-891e-8bf171e8a303" />
+<img width="1737" height="850" alt="Screenshot 2026-05-15 113803" src="https://github.com/user-attachments/assets/6d37c128-42fa-4895-b26f-65374182ba94" />
+
+
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
 Practical frequency of Oscillation =
